@@ -1,0 +1,30 @@
+
+# .streamlit/config.toml
+[theme]
+# Light, high-contrast, clean baseline
+#base = "light"
+
+# Brand-forward accent (used for buttons, sliders, highlights)
+#primaryColor = "#d94d14"              # Bold orange
+
+# Backgrounds
+#backgroundColor = "#FFFFFF"           # Page background (white for clarity)
+#secondaryBackgroundColor = "#e9eaeb"  # Cards/panels (soft light grey)
+
+# Text
+#textColor = "#333333"                 # Primary text
+
+# Font
+#font = "sans serif"
+
+# ----------------------------
+# Optional dark mode variant:
+# Uncomment this block and comment the light block above if you need dark:
+#
+base = "dark"
+primaryColor = "#d94d14"
+backgroundColor = "#333333"
+secondaryBackgroundColor = "#5b6771"
+textColor = "#e9eaeb"
+font = "sans serif"
+# ----------------------------
